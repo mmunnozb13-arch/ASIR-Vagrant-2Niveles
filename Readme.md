@@ -229,4 +229,5 @@ Para levantar las máquinas se usa `vagrant up`.
 
 ## 6. Screencast
 
-Vídeo del funcionamiento de la aplicación: [screencast.mp4](screencast.mp4)
+Vídeo del funcionamiento de la aplicación: [screencast.webm](https://github.com/user-attachments/assets/6fe8ee8e-0185-4487-9439-224d2ca07147)
+
